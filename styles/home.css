@@ -46,6 +46,10 @@
     border-radius: 12px;
 }
 
+#phone_button button{
+    box-shadow: none;
+}
+
 #banner{
     display: flex;
     align-items: start;
@@ -57,6 +61,7 @@
 #banner img {
     height: 80%;
     width: fit-content;
+    transform: translateX(150px);
 }
 
 .shape{
