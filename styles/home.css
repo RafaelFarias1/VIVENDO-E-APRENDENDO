@@ -54,14 +54,13 @@
     display: flex;
     align-items: start;
     justify-content: end;
-    width: 100%;
+    width: 70%;
     z-index: 2;
 }
 
 #banner img {
-    height: 80%;
+    height: 100%;
     width: fit-content;
-    transform: translateX(150px);
 }
 
 .shape{
